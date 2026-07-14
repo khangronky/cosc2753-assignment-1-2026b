@@ -11,7 +11,5 @@ dependencies = [
     "scikit-learn",
     "matplotlib",
     "seaborn",
+    "statsmodels",
 ]
-
-[dependency-groups]
-dev = []
