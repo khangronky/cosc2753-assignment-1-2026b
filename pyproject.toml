@@ -8,6 +8,7 @@ dependencies = [
     "ipykernel",
     "pandas",
     "numpy",
+    "feature_engine",
     "scikit-learn",
     "matplotlib",
     "seaborn",
