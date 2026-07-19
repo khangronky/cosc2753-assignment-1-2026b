@@ -10,6 +10,8 @@ dependencies = [
     "numpy",
     "feature_engine",
     "scikit-learn",
+    "xgboost",
+    "catboost",
     "matplotlib",
     "seaborn",
     "statsmodels",
